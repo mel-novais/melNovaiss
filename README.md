@@ -1,6 +1,6 @@
 ### 🦾 **My Skills:**
 
-<div align="center">
+<div>
   
 **Aplicações e dados**
 
