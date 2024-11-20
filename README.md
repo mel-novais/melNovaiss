@@ -1,26 +1,9 @@
-# Bem-vindo ao meu repositório! 👋
+<h1>Hi There! 👋</h1>
 
 Aqui você encontrará projetos que demonstram minhas habilidades e interesses em desenvolvimento de software.
 
----
-
-## 🛠️ Habilidades
-- **Linguagens:** JavaScript, Java
-- **Frameworks e Bibliotecas:** Vue.js, Spring, Bootstrap, TailwindCSS
-- **Ferramentas:** Git, jQuery
+(Java | Spring Boot | Bootstrap | Vue JS | Javascript | HTML | CSS | TailwindCSS ) 🚀
 
 ---
 
-## 📊 Status do GitHub
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=melNovaiss&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 📫 Contato
-Fique à vontade para explorar os projetos e contribuir. Caso queira me contatar, envie uma mensagem através do GitHub ou outros meios que preferir.
-
----
-
-Obrigado pela visita! 🌟
-
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melNovaiss&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
